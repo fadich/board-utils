@@ -1,0 +1,10 @@
+.idea
+venv
+
+__pycahce__
+*.pyc
+
+*.egg-info
+
+build
+dist
